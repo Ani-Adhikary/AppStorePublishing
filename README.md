@@ -17,3 +17,11 @@ https://help.apple.com/app-store-connect/#/dev78d0a8f87
 
 <h3> Simple one</h3>
 https://www.appstorescreenshot.com/
+
+<h3> Another one</h3>
+
+https://previewed.app/
+
+<h3> Used for SI </h3>
+
+https://theapplaunchpad.com/
