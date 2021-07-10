@@ -25,3 +25,7 @@ https://previewed.app/
 <h3> Used for SI </h3>
 
 https://theapplaunchpad.com/
+
+<h3> Generate image of different sizes </h3>
+
+https://hotpot.ai/icon-resizer
